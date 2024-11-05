@@ -14,7 +14,6 @@ This is a web based Covid-19 management system aimed at providing a system for s
 1. Clone the repository: `git clone https://github.com/your/repository.git`
 2. Install XAMPP and start the Apache and MySQL services.
 3. Save the files in the 'htdocs' folder of 'xampp'.
-4. Import the database schema from `database.sql` into your MySQL database.
 5. Update the database configuration in `config.php` with your MySQL credentials.
 6. Run Xampp and open 'homepage.html' and project is up and running.
 
